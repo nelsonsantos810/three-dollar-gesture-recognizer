@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "threat",
+    "owner": "john snow"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "john doe"
+  }
+}
